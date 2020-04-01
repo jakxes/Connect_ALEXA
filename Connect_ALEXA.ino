@@ -1,5 +1,4 @@
 // libraries: https://bitbucket.org/xoseperez/fauxmoesp/src/master/
-
 #include <WiFi.h>
 #include <fauxmoESP.h>
 fauxmoESP fauxmo;
